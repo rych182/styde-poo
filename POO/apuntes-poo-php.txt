@@ -1,0 +1,9 @@
+
+¿Porque usamos POO?
+Nos permite reutilizar código ya que se comportan como si fueran plantillas
+
+Objetivos de la POO
+1)Poder proteger y ocultar información, ENCAPSULAMIENTO
+El encapsulamiento de datos previene que el desarrollador haga cambios inesperados al sistema,
+como también ocultar la información para que no pueda ser modificada o vista por otras clases y
+esto es muy útil pero además fácil de hacer.
